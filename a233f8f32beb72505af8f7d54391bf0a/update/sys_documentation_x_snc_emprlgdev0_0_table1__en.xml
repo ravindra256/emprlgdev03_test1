@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="table1" language="en" table="x_snc_emprlgdev0_0_table1">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>table1</label>
+            <language>en</language>
+            <name>x_snc_emprlgdev0_0_table1</name>
+            <plural>table1s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
+            <sys_created_on>2026-03-18 02:20:58</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>table1</sys_name>
+            <sys_package display_value="emprlgdev03_test1" source="x_snc_emprlgdev0_0">a233f8f32beb72505af8f7d54391bf0a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="emprlgdev03_test1">a233f8f32beb72505af8f7d54391bf0a</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_emprlgdev0_0_table1__en</sys_update_name>
+            <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
+            <sys_updated_on>2026-03-18 02:20:58</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
