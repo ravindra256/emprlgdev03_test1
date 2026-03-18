@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
+        <sys_created_on>2026-03-18 02:29:08</sys_created_on>
+        <sys_id>edb9ffb72befb2505af8f7d54391bf2d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_emprlgdev0_0_table2.x_snc_emprlgdev0_0.admin</sys_name>
+        <sys_package display_value="emprlgdev03_test1" source="x_snc_emprlgdev0_0">a233f8f32beb72505af8f7d54391bf0a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="emprlgdev03_test1">a233f8f32beb72505af8f7d54391bf0a</sys_scope>
+        <sys_security_acl display_value="x_snc_emprlgdev0_0_table2">6db9ffb72befb2505af8f7d54391bf28</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_edb9ffb72befb2505af8f7d54391bf2d</sys_update_name>
+        <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
+        <sys_updated_on>2026-03-18 02:29:08</sys_updated_on>
+        <sys_user_role display_value="x_snc_emprlgdev0_0.admin" name="x_snc_emprlgdev0_0.admin">3a33f8f32beb72505af8f7d54391bf27</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
