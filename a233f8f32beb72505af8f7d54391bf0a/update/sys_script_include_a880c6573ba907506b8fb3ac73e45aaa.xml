@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>false</active>
+        <api_name>x_snc_emprlgdev0_0.new script include</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <mobile_callable>false</mobile_callable>
+        <name>new script include</name>
+        <sandbox_callable>false</sandbox_callable>
+        <script/>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
+        <sys_created_on>2026-06-23 14:28:33</sys_created_on>
+        <sys_id>a880c6573ba907506b8fb3ac73e45aaa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>new script include</sys_name>
+        <sys_package display_value="emprlgdev03_test1" source="x_snc_emprlgdev0_0">a233f8f32beb72505af8f7d54391bf0a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="emprlgdev03_test1">a233f8f32beb72505af8f7d54391bf0a</sys_scope>
+        <sys_update_name>sys_script_include_a880c6573ba907506b8fb3ac73e45aaa</sys_update_name>
+        <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
+        <sys_updated_on>2026-06-23 14:28:33</sys_updated_on>
+    </sys_script_include>
+</record_update>
