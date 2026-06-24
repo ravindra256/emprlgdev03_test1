@@ -32,16 +32,16 @@
         <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
         <sys_created_on>2026-03-17 12:01:57</sys_created_on>
         <sys_id>a233f8f32beb72505af8f7d54391bf0a</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
-        <sys_updated_on>2026-06-23 14:26:19</sys_updated_on>
+        <sys_updated_on>2026-03-17 12:01:57</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>2.0.0</version>
+        <version>1.0.0</version>
     </sys_app>
     <sys_translated_text action="delete_multiple" query="documentkey=a233f8f32beb72505af8f7d54391bf0a"/>
 </record_update>
